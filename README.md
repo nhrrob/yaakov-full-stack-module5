@@ -2,6 +2,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers 
 
 
-Assignment: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-5.md 
+Assignment: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md 
 
 Solution preview: https://nhrrob.github.io/yaakov-full-stack-module5/
